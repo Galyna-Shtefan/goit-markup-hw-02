@@ -101,11 +101,9 @@ text-decoration: none;
     background-color: #FFF;
 }
 
-
 .features-list {
 
 }
-
 
 .features-list-item {
 
@@ -149,7 +147,9 @@ color: #2E2F42;
 background-color: #FFFFFF;
 }
 
-.team-item {}
+.team-item {
+   
+}
 
 .team-img {}
 
@@ -188,12 +188,11 @@ text-align: center;
 }
 
 .portfolio-list {
-    background-color: #FFFFFF;
 
 }
 
 .portfolio-item {
-
+background-color: #FFFFFF;
 }
 
 .portfolio-img {
