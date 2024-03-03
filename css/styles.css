@@ -75,6 +75,7 @@ text-decoration: none;
 
 .hero-title {
     color: #FFF;
+    text-align: center;
         font-size: 56px;
         font-weight: 700;
         line-height: 1.07;
@@ -100,10 +101,7 @@ text-decoration: none;
 }
 .features {
     background-color: #FFF;
-
 }
-
-
 
 
 .features-list {
@@ -118,7 +116,6 @@ text-decoration: none;
 
 .features-subtitle {
 color: #2E2F42;
-
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -184,6 +181,7 @@ background-color: #FFF;
 
 .portfolio-title {
 color: #2E2F42;
+text-align: center;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
