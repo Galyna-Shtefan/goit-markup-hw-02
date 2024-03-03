@@ -14,7 +14,6 @@ ul, ol{
 
 .visually-hidden {
     position: absolute;
-    margin: -1px;
     white-space: nowrap;
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
@@ -144,11 +143,10 @@ color: #2E2F42;
 }
 
 .team-list {
-background-color: #FFFFFF;
 }
 
 .team-item {
-   
+background-color: #FFFFFF;
 }
 
 .team-img {}
